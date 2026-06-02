@@ -229,8 +229,7 @@ Gemini 평균 정확도: 94.1%
 - **STEP 1 가이드**: [`01_step1_vision/README.md`](01_step1_vision/README.md)
 - **STEP 2 가이드**: [`02_step2_gemini/README.md`](02_step2_gemini/README.md)
 - **STEP 3 (연구자 판독)**: [`docs/03_연구자판독_가이드.md`](docs/03_연구자판독_가이드.md)
-- **환경 설정**: [`docs/환경설정.md`](docs/환경설정.md)
-- **FAQ**: [`docs/FAQ.md`](docs/FAQ.md)
+- **환경 설정**: [`[docs/환경설정.md`](docs/환경설정.md](https://github.com/Song-yiJung/korean-modern-document-ocr/blob/main/docs/%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md))
 
 ---
 
