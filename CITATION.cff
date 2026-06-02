@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+title: korean-modern-document-ocr
+message: "If you use this software, please cite it as below."
+type: software
+
+authors:
+  - family-names: Jung
+    given-names: Song-yi
+    orcid: "https://orcid.org/"
+    affiliation: "한국학중앙연구원, 인문정보학"
+
+title: "korean-modern-document-ocr: Colonial-era Korean archival OCR pipeline"
+abstract: |
+  식민지 시대(1910~1945) 한국 문화유산 기록물의 자동 OCR 및 연구자 판독 파이프라인.
+  Google Cloud Vision API + Gemini 멀티모달 교정 + 인간 전문가 최종 검증 방식.
+  
+  Colonial-era Korean archival OCR pipeline combining Google Cloud Vision API,
+  Gemini multimodal correction, and expert human review.
+
+version: 1.0.0
+date-released: 2026-06-02
+repository-code: "https://github.com/Song-yiJung/korean-modern-document-ocr"
+keywords:
+  - OCR
+  - Korean language
+  - Colonial-era documents
+  - Digital humanities
+  - AI-assisted digitization
+  - Gemini API
+  - Vision API
+  - Buddhism
+  - Cultural heritage
+
+license: CC-BY-NC-4.0

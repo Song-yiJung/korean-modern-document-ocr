@@ -1,0 +1,36 @@
+# STEP 2 Configuration
+# YAML 형식 (선택사항 — Python에서 직접 설정도 가능)
+
+model:
+  # 선택: gemini-2.5-flash (추천), gemini-2.5-pro, gemini-2.5-flash-lite
+  name: 'models/gemini-2.5-flash'
+  description: 빠르고 저렴한 Flash 모델
+
+rate_limit:
+  # 분당 최대 호출 수 (RPM) — 무료 등급 10, 유료 100+
+  rpm: 10
+  # 호출 간격 (초) — RPM에서 자동 계산. 보수적으로 +1초 추가.
+  sleep_interval_sec: 6
+
+pricing:
+  # USD per 1M tokens (2026년 기준)
+  gemini-2.5-flash:
+    input: 0.30
+    output: 2.50
+  gemini-2.5-flash-lite:
+    input: 0.10
+    output: 0.40
+  gemini-2.5-pro:
+    input: 1.25
+    output: 10.00
+
+currency:
+  # 청구액 환산용
+  usd_to_krw: 1400
+
+processing:
+  # 연속 오류 발생 시 재시도 대기 (초)
+  retry_delay_sec: 60
+  
+  # 멱등성: gemini_corrected 필드 존재 여부로 판단
+  check_idempotency: true
