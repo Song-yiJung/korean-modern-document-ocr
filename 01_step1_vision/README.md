@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 ## 상세 가이드
 
-[환경설정](../../docs/환경설정.md) 참조
+[[환경설정](../../docs/환경설정.md)](https://github.com/Song-yiJung/korean-modern-document-ocr/blob/main/docs/%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md) 참조
