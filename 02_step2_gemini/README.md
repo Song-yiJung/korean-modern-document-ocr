@@ -36,4 +36,4 @@ pip install -r requirements.txt
 
 ## 상세 가이드
 
-[STEP 3: 연구자 판독](../../docs/03_연구자판독_가이드.md) 참조
+[STEP 3: 연구자 판독]([../../docs/03_연구자판독_가이드.md](https://github.com/Song-yiJung/korean-modern-document-ocr/blob/main/docs/03_연구자판독_가이드.md)) 참조
