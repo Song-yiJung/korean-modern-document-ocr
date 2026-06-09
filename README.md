@@ -4,7 +4,7 @@
 
 > 키 발급, Colab 설정, 단계별 실습을 포함한 전체 사용법은 매뉴얼을 참조한다.
 
-> [근대 사료 1차 가공을 위한 AI 기반 고문서 OCR 매뉴얼 (WikiDocs 실제 링크 향후 추가)](WIKIDOCS_URL)
+> [근대 사료 1차 가공을 위한 AI 기반 고문서 OCR 매뉴얼 (WikiDocs 실제 링크 향후 추가)](https://wikidocs.net/348351))
 ---
 
 ## 개요
