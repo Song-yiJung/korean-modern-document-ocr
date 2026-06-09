@@ -106,7 +106,7 @@ CC-BY-NC-4.0 (비상업적 사용). 학술·교육 목적의 사용·수정·배
 
 ## 기여 및 문의
 
-이슈, 풀 리퀘스트, 개선 제안을 환영합니다. 문의는 [GitHub Issues](https://github.com/Song-yiJung/korean-modern-document-ocr/issues)로 받는다.
+개선 제안과 풀 리퀘스트를 환영한다. 코드 관련 사안은 GitHub Issues, 그 밖의 문의는 이메일(songi113@hanmail.net)로 받는다.
 
 ---
 
